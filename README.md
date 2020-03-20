@@ -1,5 +1,5 @@
-hello miniuke
-=============
+hello k8s with miniuke
+======================
 
 for MacOS
 ```
